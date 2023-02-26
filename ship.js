@@ -15,7 +15,6 @@ class Ship extends Spaceobj{
 		c.fillStyle = '#6C7A89';
 		c.fillRect(-d/2, -d/2, d, d);
 		// nose
-		c.strokeStyle = 'white';
 		c.beginPath();
 		c.moveTo(0,0);
 		c.lineTo(2*d,0);
