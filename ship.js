@@ -12,7 +12,7 @@ class Ship extends Spaceobj{
 		const {c} = this.game.screen;
 		const {d} = this;
 		// body
-		c.fillStyle = 'white';
+		c.fillStyle = '#6C7A89';
 		c.fillRect(-d/2, -d/2, d, d);
 		// nose
 		c.strokeStyle = 'white';
