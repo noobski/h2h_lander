@@ -1,0 +1,5 @@
+TODO:
+
+- network based competitive lunar lander:  both try to make easy landing, and first to make it
+  makes next landing site more difficult for the other player, until one crashes 3 times
+  

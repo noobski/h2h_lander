@@ -1,0 +1,16 @@
+{
+	"configurations": [
+		{
+			"type": "chrome",
+			"name": "http://127.0.0.1:3000/asteroid.html",
+			"request": "launch",
+			"url": "http://127.0.0.1:3000/asteroid.html"
+		},
+		{
+			"type": "chrome",
+			"name": "http://127.0.0.1:3045/asteroid.html",
+			"request": "launch",
+			"url": "http://127.0.0.1:3045/asteroid.html"
+		}
+	]
+}
